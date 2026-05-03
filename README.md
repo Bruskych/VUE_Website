@@ -21,4 +21,4 @@ Používatelia si môžu prezerať krajiny, otvárať podrobné stránky a objav
 ## 📖 **Webová verzia**
 
 Projekt je nasadený na **GitHub Pages** a je dostupný online:  
-🌟 [Otvoriť web stránku](https://vladyslav1728.github.io/VUE_Website/)
+🌟 [Otvoriť web stránku](https://bruskych.github.io/VUE_Website/)
